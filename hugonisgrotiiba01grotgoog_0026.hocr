@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hugonisgrotiiba01grotgoog_0026.png"; bbox 0 0 2588 4448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 1296 1085 1835">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 66 1296 1085 1835">
+     <span class='ocr_line' id='line_1_1' title="bbox 66 1296 1085 1598; baseline -0.011 -57"><span class='ocrx_word' id='word_1_1' title='bbox 66 1296 621 1598; x_wconf 81' lang='lat' dir='ltr'>Hugonis</span> <span class='ocrx_word' id='word_1_2' title='bbox 692 1297 1085 1542; x_wconf 83' lang='lat' dir='ltr'>Grotii</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 190 1702 974 1835; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 190 1702 974 1835; x_wconf 82' lang='lat' dir='ltr'>ADNOTATIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 74 1982 1217 2362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 74 1982 1217 2362">
+     <span class='ocr_line' id='line_1_3' title="bbox 284 1982 627 2064; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 284 2044 288 2048; x_wconf 91' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 522 1982 627 2064; x_wconf 59' lang='lat' dir='ltr'>A„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 74 2092 1217 2362; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 74 2142 1071 2362; x_wconf 80' lang='lat' dir='ltr'>DECALOGUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1214 2092 1217 2097; x_wconf 27' lang='lat'>⁵</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1298 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1298 4448">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1298 4448; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1298 4448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
